@@ -1,0 +1,5 @@
+key	value
+BROWSER	chrome
+URL http://49.249.28.218:8888/
+USERNAME: admin
+PASSWORD: admin
